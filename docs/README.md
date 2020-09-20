@@ -2,4 +2,4 @@
 
 Thanks for using our product.
 
-If you want to dive right in, try our [quick start tutorial](/). 
+If you want to dive right in, try our [quick start tutorial](./). 
